@@ -14,7 +14,7 @@
     "test:prefix": "yarn build:prefix && yarn serve:prefix"
   },
   "dependencies": {
-    "gatsby": "^2.4.2",
+    "gatsby": "^3.0.0",
     "gatsby-theme-carbon": "^1.15.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
